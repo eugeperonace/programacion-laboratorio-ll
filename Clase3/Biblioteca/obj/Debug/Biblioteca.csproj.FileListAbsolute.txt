@@ -1,0 +1,5 @@
+C:\Users\Eugenia Peronace\source\repos\Vista\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Eugenia Peronace\source\repos\Vista\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Eugenia Peronace\source\repos\Vista\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Eugenia Peronace\source\repos\Vista\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Eugenia Peronace\source\repos\Vista\Biblioteca\obj\Debug\Biblioteca.pdb

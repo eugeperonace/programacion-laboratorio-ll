@@ -1,0 +1,7 @@
+C:\Users\Eugenia Peronace\source\repos\Clase1\Clase1_3\bin\Debug\Clase1_3.exe.config
+C:\Users\Eugenia Peronace\source\repos\Clase1\Clase1_3\bin\Debug\Clase1_3.exe
+C:\Users\Eugenia Peronace\source\repos\Clase1\Clase1_3\bin\Debug\Clase1_3.pdb
+C:\Users\Eugenia Peronace\source\repos\Clase1\Clase1_3\obj\Debug\Clase1_3.csprojAssemblyReference.cache
+C:\Users\Eugenia Peronace\source\repos\Clase1\Clase1_3\obj\Debug\Clase1_3.csproj.CoreCompileInputs.cache
+C:\Users\Eugenia Peronace\source\repos\Clase1\Clase1_3\obj\Debug\Clase1_3.exe
+C:\Users\Eugenia Peronace\source\repos\Clase1\Clase1_3\obj\Debug\Clase1_3.pdb
