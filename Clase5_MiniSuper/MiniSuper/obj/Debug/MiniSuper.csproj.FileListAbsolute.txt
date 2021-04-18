@@ -1,0 +1,11 @@
+C:\Users\Eugenia Peronace\source\repos\MiniSuper\MiniSuper\bin\Debug\MiniSuper.exe.config
+C:\Users\Eugenia Peronace\source\repos\MiniSuper\MiniSuper\bin\Debug\MiniSuper.exe
+C:\Users\Eugenia Peronace\source\repos\MiniSuper\MiniSuper\bin\Debug\MiniSuper.pdb
+C:\Users\Eugenia Peronace\source\repos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csprojAssemblyReference.cache
+C:\Users\Eugenia Peronace\source\repos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FrmAltaUsuario.resources
+C:\Users\Eugenia Peronace\source\repos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.FrmPrincipal.resources
+C:\Users\Eugenia Peronace\source\repos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.Properties.Resources.resources
+C:\Users\Eugenia Peronace\source\repos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csproj.GenerateResource.cache
+C:\Users\Eugenia Peronace\source\repos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.csproj.CoreCompileInputs.cache
+C:\Users\Eugenia Peronace\source\repos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.exe
+C:\Users\Eugenia Peronace\source\repos\MiniSuper\MiniSuper\obj\Debug\MiniSuper.pdb
