@@ -1,0 +1,6 @@
+C:\Users\Eugenia Peronace\source\repos\Vista\Entidades\bin\Debug\Entidades.dll
+C:\Users\Eugenia Peronace\source\repos\Vista\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Eugenia Peronace\source\repos\Vista\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Eugenia Peronace\source\repos\Vista\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Eugenia Peronace\source\repos\Vista\Entidades\obj\Debug\Entidades.dll
+C:\Users\Eugenia Peronace\source\repos\Vista\Entidades\obj\Debug\Entidades.pdb
