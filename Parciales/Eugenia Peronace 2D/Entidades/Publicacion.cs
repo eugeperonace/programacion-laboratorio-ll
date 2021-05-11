@@ -42,6 +42,9 @@ namespace Entidades
             get;
         }
 
+        /// <summary>
+        /// Si la publicación tiene stock retorna true, si no false.
+        /// </summary>
         public virtual bool HayStock
         {
             get

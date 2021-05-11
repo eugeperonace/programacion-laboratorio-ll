@@ -31,6 +31,11 @@ namespace Entidades
 
         #region Métodos
 
+        /// <summary>
+        /// Informa el nombre, ventas y ganancia del vendedorpasado por parámetro.
+        /// </summary>
+        /// <param name="v">Vendedor de quien queremos saber la información.</param>
+        /// <returns>string con dicha información.</returns>
         public static string InformeDeVentas(Vendedor v)
         {
             double ganancia = 0;
@@ -56,6 +61,12 @@ namespace Entidades
 
         #region Operadores
 
+        /// <summary>
+        /// Agrega una publicación a la lista de ventas del vendedor.
+        /// </summary>
+        /// <param name="v">Vendedor</param>
+        /// <param name="p">Publicacion a agregar</param>
+        /// <returns>true si pudo agregarla y false si no pudo.</returns>
         public static bool operator +(Vendedor v, Publicacion p)
         {
             bool retorno = false;
