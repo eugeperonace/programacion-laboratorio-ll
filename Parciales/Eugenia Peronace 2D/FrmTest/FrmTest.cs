@@ -49,18 +49,7 @@ namespace FrmTest
         /// <param name="e"></param>
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            DialogResult respuesta;
-
-            respuesta = MessageBox.Show("¿Está seguro que desea salir?","STOP", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
-
-            if (respuesta == DialogResult.Yes)
-            {
-                Close();
-            }
-            else
-            {
-
-            }
+            Close();
         }
 
         /// <summary>
@@ -99,5 +88,20 @@ namespace FrmTest
             rtbInforme.Text = Vendedor.InformeDeVentas(vendedor);
         }
 
+        private void FrmTest_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult respuesta;
+
+            respuesta = MessageBox.Show("¿Está seguro que desea salir?","STOP", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+
+            if (respuesta == DialogResult.Yes)
+            {
+                this.Dispose();
+            }
+            else
+            {
+                e.Cancel = true;
+            }
+        }
     }
 }
