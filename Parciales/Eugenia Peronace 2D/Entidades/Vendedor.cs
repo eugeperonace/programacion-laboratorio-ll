@@ -17,11 +17,18 @@ namespace Entidades
 
         #region Constructores
 
+        /// <summary>
+        /// Constructor de objeto Vendedor. Inicializa la lista de publicaciones del vendedor.
+        /// </summary>
         private Vendedor()
         {
             ventas = new List<Publicacion>();
         }
 
+        /// <summary>
+        /// Constructor de objeto Vendedor, inicializa el estado de su atributo nombre.
+        /// </summary>
+        /// <param name="nombre"></param>
         public Vendedor(string nombre) : this()
         {
             this.nombre = nombre;
@@ -32,7 +39,7 @@ namespace Entidades
         #region Métodos
 
         /// <summary>
-        /// Informa el nombre, ventas y ganancia del vendedorpasado por parámetro.
+        /// Informa el nombre, ventas y ganancia del vendedor pasado por parámetro.
         /// </summary>
         /// <param name="v">Vendedor de quien queremos saber la información.</param>
         /// <returns>string con dicha información.</returns>

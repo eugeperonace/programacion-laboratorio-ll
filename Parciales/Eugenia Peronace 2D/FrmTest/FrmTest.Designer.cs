@@ -96,7 +96,7 @@
             this.MinimizeBox = false;
             this.Name = "FrmTest";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Testear App de Eugenia Peronace (2ºD)";
+            this.Text = "Tester App de Eugenia Peronace (2ºD)";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmTest_FormClosing);
             this.Load += new System.EventHandler(this.FrmTest_Load);
             this.ResumeLayout(false);

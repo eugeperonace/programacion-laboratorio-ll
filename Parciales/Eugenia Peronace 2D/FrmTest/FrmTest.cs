@@ -43,7 +43,7 @@ namespace FrmTest
         }
 
         /// <summary>
-        /// Antes de cerrar el formulario le pregunta al usuario si realemente quiere salir.
+        /// Cierra el formulario preguntandole antes al usuario si realemente quiere salir.
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -74,7 +74,7 @@ namespace FrmTest
             }
             else
             {
-                MessageBox.Show("Seleccione la publicación que quiera vender.", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Seleccione la publicación que quiera vender.", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
 
@@ -88,6 +88,11 @@ namespace FrmTest
             rtbInforme.Text = Vendedor.InformeDeVentas(vendedor);
         }
 
+        /// <summary>
+        /// Cierra el formulario preguntandole antes al usuario si realemente quiere salir.
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void FrmTest_FormClosing(object sender, FormClosingEventArgs e)
         {
             DialogResult respuesta;

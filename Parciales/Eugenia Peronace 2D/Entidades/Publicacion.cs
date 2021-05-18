@@ -18,16 +18,31 @@ namespace Entidades
 
         #region Constructores
 
+        /// <summary>
+        /// Constructor de objeto Publicación, inicializa el estado de su atributo nombre.
+        /// </summary>
+        /// <param name="nombre"></param>
         public Publicacion(string nombre)
         {
             this.nombre = nombre;
         }
 
+        /// <summary>
+        /// Constructor de objeto Publicación, inicializa el estado de su atributo nombre y stock.
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="stock"></param>
         public Publicacion(string nombre, int stock) : this(nombre)
         {
             this.stock = stock;
         }
 
+        /// <summary>
+        /// Constructor de objeto Publicación, inicializa el estado de su atributo nombre, stock e importe.
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="stock"></param>
+        /// <param name="importe"></param>
         public Publicacion(string nombre, int stock, float importe) : this(nombre,stock)
         {
             this.importe = importe;
@@ -37,6 +52,9 @@ namespace Entidades
 
         #region Propiedades
 
+        /// <summary>
+        /// Si la publicación es de color retorna true si no, false.
+        /// </summary>
         protected abstract bool EsColor 
         {
             get;
@@ -58,7 +76,9 @@ namespace Entidades
             }
         }
 
-
+        /// <summary>
+        /// Retorna el importe del objeto.
+        /// </summary>
         public float Importe
         {
             get
@@ -67,6 +87,9 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Retorna el stock y permite setear dicho stock si ese valor es mayor a 0.
+        /// </summary>
         public int Stock
         {
             get
@@ -87,6 +110,10 @@ namespace Entidades
 
         #region Métodos
 
+        /// <summary>
+        /// Muestra la información de la Publicación.
+        /// </summary>
+        /// <returns>un string con dicha información.</returns>
         public string Informacion()
         {
             StringBuilder sb = new StringBuilder();
@@ -105,6 +132,10 @@ namespace Entidades
             return sb.ToString();
         }
 
+        /// <summary>
+        /// Retorna el nombre.
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
             return this.nombre;
