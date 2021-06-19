@@ -1,0 +1,10 @@
+C:\Users\Eugenia Peronace\source\repos\Clases\ConsolaPrueba\bin\Debug\ConsolaPrueba.exe.config
+C:\Users\Eugenia Peronace\source\repos\Clases\ConsolaPrueba\bin\Debug\ConsolaPrueba.exe
+C:\Users\Eugenia Peronace\source\repos\Clases\ConsolaPrueba\bin\Debug\ConsolaPrueba.pdb
+C:\Users\Eugenia Peronace\source\repos\Clases\ConsolaPrueba\bin\Debug\Clases.dll
+C:\Users\Eugenia Peronace\source\repos\Clases\ConsolaPrueba\bin\Debug\Clases.pdb
+C:\Users\Eugenia Peronace\source\repos\Clases\ConsolaPrueba\obj\Debug\ConsolaPrueba.csprojAssemblyReference.cache
+C:\Users\Eugenia Peronace\source\repos\Clases\ConsolaPrueba\obj\Debug\ConsolaPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Eugenia Peronace\source\repos\Clases\ConsolaPrueba\obj\Debug\ConsolaPrueba.csproj.CopyComplete
+C:\Users\Eugenia Peronace\source\repos\Clases\ConsolaPrueba\obj\Debug\ConsolaPrueba.exe
+C:\Users\Eugenia Peronace\source\repos\Clases\ConsolaPrueba\obj\Debug\ConsolaPrueba.pdb

@@ -1,0 +1,9 @@
+C:\Users\Eugenia Peronace\source\repos\Clases\Clases\obj\Debug\netstandard2.0\Clases.csprojAssemblyReference.cache
+C:\Users\Eugenia Peronace\source\repos\Clases\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfoInputs.cache
+C:\Users\Eugenia Peronace\source\repos\Clases\Clases\obj\Debug\netstandard2.0\Clases.AssemblyInfo.cs
+C:\Users\Eugenia Peronace\source\repos\Clases\Clases\obj\Debug\netstandard2.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Eugenia Peronace\source\repos\Clases\Clases\bin\Debug\netstandard2.0\Clases.deps.json
+C:\Users\Eugenia Peronace\source\repos\Clases\Clases\bin\Debug\netstandard2.0\Clases.dll
+C:\Users\Eugenia Peronace\source\repos\Clases\Clases\bin\Debug\netstandard2.0\Clases.pdb
+C:\Users\Eugenia Peronace\source\repos\Clases\Clases\obj\Debug\netstandard2.0\Clases.dll
+C:\Users\Eugenia Peronace\source\repos\Clases\Clases\obj\Debug\netstandard2.0\Clases.pdb
